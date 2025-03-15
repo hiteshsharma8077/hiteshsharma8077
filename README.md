@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
-<h3 align="center"><h3 align="center">A Dumb Boy 😂 Preparing for Software Developer Role 👨‍💻</h3></h3>
+<h1 align="center">Hi 👋, I'm Hitesh Sharma</h1>
+<h3 align="center"><h3 align="center">A Smart Boy Preparing for Software Developer Role 👨‍💻</h3></h3>
 <img align="right" alt="Coding" width="400" src="https://images.playground.com/a930537feae246c2bb67c1b92d2b86a9.jpeg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsharma06266&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsharma06266" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshsharma8077&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshsharma8077" /> </p>
 
 
 
@@ -10,27 +10,25 @@
 
 - 🔭 I’m currently working on [Frontend Development](null)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Web Development**
 
 - 🤝 I’m looking for help with [online-voting-system-CR-Selection](https://github.com/ayushsharma06266/online_voting_system-CR-Selection)
 
-- 💬 Ask me about **Java, C++, PHP, JavaScript**
+- 💬 Ask me about **Java, C++, JavaScript**
 
-- 📫 How to reach me **ayushsharma06266@gmail.com**
+- 📫 How to reach me **hiteshayush324@gmail.com**
 
 - 📄 Know about my experiences 
 <p align="center">
-  <a href="https://docs.google.com/document/d/1kAI1DJS_YZhtVzRjbm0xPFxmmnWja79R_ck46EY5DS0/edit?usp=sharing" target="_blank">
+  <a href="https://docs.google.com/document/d/1SARXqNjqaovoNPLueraNZgjIlEltRiAOAIU6iQmG9oI/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=google-drive" alt="resume"/>
   </a>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayushsharma06266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushsharma06266" height="30" width="40" /></a>
-<a href="https://fb.com/ayushsharma06266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayushsharma06266" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hitesh-sharma8077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushsharma06266" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bcawalaayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bcawalaayush" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayushsharma06266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushsharma06266" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushsharma06266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushsharma06266" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/hitesh_sharma8077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushsharma06266" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
