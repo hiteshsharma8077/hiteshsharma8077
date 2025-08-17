@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 🤝 I’m looking for help with [online-voting-system-CR-Selection](https://github.com/ayushsharma06266/online_voting_system-CR-Selection)
+- 🤝 I’m looking for help with [online-voting-system-CR-Selection](https://github.com/hiteshsharma8077/online_voting_system-CR-Selection)
 
 - 💬 Ask me about **Java, C++, JavaScript**
 
